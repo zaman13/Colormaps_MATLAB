@@ -6,7 +6,8 @@ The csv files contain rgb values of the colormaps.
 
 # Sample output
 <p float="left">
-<img src="https://github.com/zaman13/Colormaps_MATLAB/blob/master/colormap_sample.png" alt="alt text" width="800">
+<img src="https://github.com/zaman13/Colormaps_MATLAB/blob/master/colormap_sample.png" alt="alt text" width="400">
+  <img src="https://github.com/zaman13/Colormaps_MATLAB/blob/master/colormap_sample2.png" alt="alt text" width="400">
 
 
 # References
